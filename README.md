@@ -3,8 +3,8 @@
 
 # 星光拆墙 (Unwall)
 
-[![Android](https://img.shields.io/badge/Android-8.0%2B-brightgreen)](https://developer.android.com)
-[![License](https://img.shields.io/badge/License-GPLv3-blue)](LICENSE)
+[![Android](https://img.shields.io/badge/Android-5.0%2B-brightgreen)](https://developer.android.com)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 **星光拆墙** 是一款 Android 下载辅助工具，专为解决国内访问 GitHub 慢、B站视频和网易云音乐下载繁琐等问题而生。  
 它整合了多种解析服务，让你在一个 App 内完成**链接输入→解析→下载→文件管理**全流程。
