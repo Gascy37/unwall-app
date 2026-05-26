@@ -39,14 +39,6 @@
 - UI：Material Design + Fragment + Navigation
 - 日志：本地文件滚动记录
 
-## 📦 依赖的第三方服务
-
-> 本软件不内置任何破解功能，仅调用公开的解析接口。若以下服务失效，可自行更换或提 Issue。
-
-- GitHub 代理：`https://gh-proxy.com/` / `https://http-proxy.262832.xyz/`
-- B站解析 API：`https://api.mir6.com/api/bzjiexi`
-- 网易云解析 API：`http://v.api.aa1.cn/api/wymusic/index.php`
-
 ## ⚠️ 注意事项
 
 - 本软件仅供个人学习交流，请勿用于商业或侵权用途。
