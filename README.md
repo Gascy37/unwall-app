@@ -11,7 +11,7 @@
 
 ## ✨ 主要功能
 
-❗在星光拆墙V1.6.0以上，在设置页里面的功能指令集，可以看到所有在通用下载页输入的指令。
+- ‼️在星光拆墙V1.6.0以上，在设置页里面的功能指令集，可以看到所有在通用下载页输入的指令。
 
 - 
 - 📁 **自定义下载路径**：Android 10+ 使用 SAF 选择文件夹，旧版自动适配存储权限。
@@ -33,6 +33,7 @@
 ## ⚙️ 技术栈
 
 - 语言：Java
+- 制作器: AndroidIDE换源版
 - 网络：`HttpURLConnection` + 公共代理 / 解析 API
 - 存储：SAF（`DocumentFile`）+ FileProvider
 - UI：Material Design + Fragment + Navigation
