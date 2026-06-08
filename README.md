@@ -9,14 +9,11 @@
 **星光拆墙** 是一款 Android 下载辅助工具，专为解决国内访问 GitHub 慢、B站视频和网易云音乐下载繁琐等问题而生。  
 它整合了多种解析服务，让你在一个 App 内完成**链接输入→解析→下载→文件管理**全流程。
 
-<div style="overflow-x: auto; overflow-y: hidden; white-space: nowrap; -webkit-overflow-scrolling: touch;">
-  <div style="white-space: nowrap;">
-    <img src="1.png" alt="主页/加速页" style="height: 360px; width: auto; display: inline-block; margin-right: 16px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <img src="2.png" alt="收藏库" style="height: 360px; width: auto; display: inline-block; margin-right: 16px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <img src="3.png" alt="设置页" style="height: 360px; width: auto; display: inline-block; margin-right: 16px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-    <!-- 更多图片继续添加，去掉最后一个的 margin-right 或保留均可 -->
-  </div>
-</div>
+<p>
+  <img src="1.png" style="height:360px; margin-right:16px; display:inline-block">
+  <img src="2.png" style="height:360px; margin-right:16px; display:inline-block">
+  <img src="3.png" style="height:360px; margin-right:16px; display:inline-block">
+</p>
 
 ## ✨ 主要功能
 
