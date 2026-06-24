@@ -6,7 +6,7 @@
 [![Android](https://img.shields.io/badge/Android-5.0%2B-brightgreen)](https://developer.android.com)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-**星光拆墙** 是一款 Android 下载辅助工具，专为解决国内访问 GitHub 慢、B站视频和网易云音乐下载繁琐等问题而生。  
+**星光拆墙** 是一款 Android 下载辅助工具，专为解决国内访问 GitHub 慢、B站视频和网易云音乐下载繁琐等问题而诞生。  
 它整合了多种解析服务，让你在一个 App 内完成**链接输入→解析→下载→文件管理**全流程。
 
 <table style="width: 100%; table-layout: fixed;">
@@ -20,6 +20,7 @@
 ## ✨ 主要功能
 
 - 💢 在星光拆墙V1.6.0以上，在设置页里面的功能指令集，可以看到所有在通用下载页输入的指令。
+- 🚀 **文件多线程下载**:V3.3.0更新的功能，下载速度理论上能够提高150%~400%。
 - 📁 **自定义下载路径**：Android 10+ 使用 SAF 选择文件夹，旧版自动适配存储权限。
 - ⬛ **悬浮窗进度显示**：下载时悬浮窗展开气泡，实时显示文件名和百分比。
 - ⬜ **下载弹窗进度显示** : 下载时会显示下载弹窗，有进度条，有百分比，以及你自由开关是否显示当前下载实际文件大小和文件总大小。
@@ -38,6 +39,7 @@
 
 - 语言：Java
 - 制作器: AndroidIDE换源版
+- 软件UI: Material Design 3
 - 网络：`HttpURLConnection` + 公共代理 / 解析 API
 - 存储：SAF（`DocumentFile`）+ FileProvider
 - UI：Material Design + Fragment + Navigation
